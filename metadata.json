@@ -1,0 +1,6 @@
+{
+  "name": "Playlist Downloader",
+  "description": "Download and convert YouTube playlists directly to MP3 music files stored on your local device library, with Google Sign-In and YouTube Premium feature options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
